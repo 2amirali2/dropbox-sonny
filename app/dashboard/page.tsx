@@ -3,7 +3,7 @@ import { UserButton } from "@clerk/nextjs";
 const Dashboard = () => {
   return (
     <div>
-        Dashboard
+      <h1>This is the Dashboard Page</h1>
     </div>
   );
 };
